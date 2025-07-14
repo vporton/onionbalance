@@ -4,3 +4,4 @@ pytest-mock
 pexpect
 coveralls>=1.1
 pytest-cov>=2.4
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
